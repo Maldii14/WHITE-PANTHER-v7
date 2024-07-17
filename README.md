@@ -2,7 +2,7 @@
 WHITE PANTHER V7
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +WHITE PANTHER V7;MULTI+DEVICE+WHATSAPP+BOT" alt="Blinking SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=ADVANCED +WHITE PANTHER V7;MULTI+DEVICE+WHATSAPP+BOT" alt="Blinking SVG" /></a>
   </p>
 
 <p align="center">
