@@ -7,7 +7,7 @@ WHITE PANTHER V7
 
 <p align="center">
   <a href="WHITE-PANTHER-v7">
-    <img alt="WHITE PANTHER V7 logo" height="150" src="https://telegra.ph/file/00babef1e76a41f953d44.jpg">
+    <img alt="WHITE PANTHER V7 logo" height="150" src="https://telegra.ph/file/389debacb3b11e31a4fe3.jpg">
   </a>
 </p>
 
