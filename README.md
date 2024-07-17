@@ -18,7 +18,7 @@ WHITE PANTHER V7
   <a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-v7/watchers"><img title="Watching" src="https://github.com/GURUMD-TECH/WHITE-PANTHER-v7t?label=Watching&style=social"></a>
 </p>
 
- **TKM-bot Deployment Methods**
+ **WHITE PANTHER Deployment Methods**
 
 •FORK THIS REPO
  <br>
