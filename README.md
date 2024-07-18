@@ -20,7 +20,4 @@
 
  **WHITE PANTHER Deployment Methods**
 
-•FORK THIS REPO
- <br>
- <a href='https://github.com/GURUMD-TECH/WHITE-PANTHER-v7/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
- 
+
